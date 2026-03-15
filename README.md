@@ -21,10 +21,10 @@ The answer turns out to be a strong **yes** — and this project proves it with 
 ## 📁 Project Structure
 
 ```
-├── TRADER_BEHAVIOR_ANNOTATED.ipynb   # Full analysis notebook (annotated)
+├── TRADER_BEHAVIOR_ANALYSIS.ipynb   # Full analysis notebook 
 ├── dashboard.py                      # Streamlit interactive dashboard
-├── historical_data.csv               # Hyperliquid trade logs (you provide)
-├── fear_greed_index.csv              # Bitcoin Fear & Greed Index (you provide)
+├── historical_data.csv               # Hyperliquid trade logs 
+├── fear_greed_index.csv              # Bitcoin Fear & Greed Index
 └── README.md
 ```
 
