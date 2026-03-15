@@ -1,7 +1,7 @@
 # Traders-Behavior-Analysis-over-Hyperliquid-historical-trading-data
 Data science project analyzing market sentiments over the trading patterns with essential criteria.
 
-
+Visit Application Demo on here -> https://dhanyatha-s-traders-behavior-analysis-over-hyp-dashboard-51xynr.streamlit.app/
 ### Hyperliquid Historical Trades × Bitcoin Fear & Greed Index
 
 > Exploring how market sentiment affects crypto trader performance — with statistical proof, ML prediction, and an interactive dashboard.
