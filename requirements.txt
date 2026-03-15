@@ -4,5 +4,5 @@ matplotlib
 seaborn 
 scipy 
 scikit-learn 
-streamlit 
+streamlit>=1.23.0
 plotly
